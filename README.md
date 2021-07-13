@@ -1,2 +1,4 @@
-# goCodeEducation
-desafio golang code education
+
+Imagem GO
+docker run vieirajean/codeeducation
+
